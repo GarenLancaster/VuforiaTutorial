@@ -1,3 +1,9 @@
+.gitingore
+/.idea/
+/Assets/*.meta
+/Assets/Editor/
+/Assets/Resources/
+/Assets/StreamingAssets/
 !/Assets/UnityAssest/应放置于此处的包.md
 /Assets/UnityAssest/
 /Packages/vuforia_engine/
