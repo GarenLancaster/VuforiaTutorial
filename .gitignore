@@ -5,7 +5,6 @@
 /Assets/Resources/
 /Assets/StreamingAssets/
 /Assets/UnityAssest/**/
-/Assets/UnityAssest/*.meta
 /Packages/vuforia_engine/
 /发布.apk
 # This .gitignore file should be placed at the root of your Unity project directory
